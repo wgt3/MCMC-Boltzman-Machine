@@ -1,4 +1,4 @@
-#Using the Metropolis-Hastings Algorithm to analyze United Nations Voting data
+# Using the Metropolis-Hastings Algorithm to analyze United Nations Voting data
 This is a final for a Scientific Computing class in college. In this project I used the Metropolis-Hastings Algorithm, 
 which is a Markov Chain Monte Carlo method, to sample from a Boltzmann Machine/Ising Model. The Boltzmann Machine was
 fit to a United Nations voting data set using steepest ascent. Results are discussed in attached word doc.
