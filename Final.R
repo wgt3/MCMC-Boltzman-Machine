@@ -78,14 +78,6 @@ get_proposal = function(e){
   
 }
 
-# eta =rep(1,27)
-# ##think this is causing issues
-# ##us and ru
-# eta[13]=-20
-# eta[14]=-10#us and human
-# eta[15]=-10
-# eta[16]=10
-# eta[17]=-10
 
 
 etest = c(1,1,-1,1,-1,1,-1,1,-1,1)
